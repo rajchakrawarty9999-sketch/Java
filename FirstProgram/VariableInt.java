@@ -6,6 +6,8 @@ public class VariableInt {
         System.out.println(x);
         System.out.println(y);
         System.out.println(x+y+1);
+        x = x + 5;
+        System.out.println(x);
     }
     
 }
