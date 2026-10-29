@@ -211,7 +211,7 @@ public class Conditionals {
 
 
 
-//        sc.close();
+ sc.close();
     }
 }
 
